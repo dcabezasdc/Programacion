@@ -1,7 +1,7 @@
+package boletin09_4;
 /*
 Codifica un programa que solicite  un número e, visualice a táboa de multiplicar dese número. O programa rematara cando prememos o cero.
 */
-package boletin09_4;
 
 import javax.swing.JOptionPane;
 
