@@ -1,4 +1,10 @@
 package boletin04_1;
+//Crea unha clase chamada Libro que conteña os seguintes atributos:
+// a. String titulo;
+// b. String autor;
+// c. int ano;
+// d. short numPaginas;
+// e. float valoracion;
 
 public class Boletin04_1 {
 
