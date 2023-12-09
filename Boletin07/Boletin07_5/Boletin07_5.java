@@ -1,7 +1,7 @@
+package boletin07_5;
 /*
 Dados 3 números que se supon distintos , indicar cal é o maior
 */
-package boletin07_5;
 
 import javax.swing.JOptionPane;
 
