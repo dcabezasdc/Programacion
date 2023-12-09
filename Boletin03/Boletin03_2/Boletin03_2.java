@@ -1,4 +1,7 @@
 package boletin03_2;
+//Realiza o ordinograma e,despois codifica un programa que representa un algoritmo, que reciba como dato de 
+//entrada o valor dunha temperatura expresada en graos centígrados e calcule o seu equivalente en graos 
+//Fahrenheit e graos Kelvin.
 
 import java.util.Scanner;
 
