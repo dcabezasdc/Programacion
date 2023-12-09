@@ -1,3 +1,4 @@
+package boletin08_1;
 /*
 Un almacen clasifica os seus productos según a seguinte táboa 
 de vendas anuais:
@@ -10,7 +11,6 @@ Vendas anuais			artigo de consumo
 
 Coñecido o nome do artigo e as vendas anuais. Indicar de que tipo é.
 */
-package boletin08_1;
 
 public class Boletin08_1 {
 
