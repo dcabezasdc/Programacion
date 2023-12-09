@@ -1,9 +1,9 @@
+package boletin07_2;
 /*
 Implementa un programa no que se tecleen dous números de tipo short . Se o 
 primeiro é maior ou igual que o segundo,visualizaremos a resta . En calquera 
 caso visualizaremos a suma 
 */
-package boletin07_2;
 
 import javax.swing.JOptionPane;
 
