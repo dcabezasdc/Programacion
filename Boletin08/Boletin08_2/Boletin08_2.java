@@ -1,3 +1,4 @@
+package boletin08_2;
 /*
 Codifica un programa que, utilizando un menú de opcións, calcule a superficie de distintas figuras. 
 
@@ -9,7 +10,6 @@ No caso de premer unha opción que non teña o menú visualizar unha mensaxe de 
 2…. Triangulo
 3…. Circulo
 */
-package boletin08_2;
 
 import javax.swing.JOptionPane;
 
