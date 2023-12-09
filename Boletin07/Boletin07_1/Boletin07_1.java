@@ -1,6 +1,6 @@
+package boletin07_1;
 /*codifica un programa que saque, por consola, un número tecleado, 
 sempre que sexa positivo,xunto coa mensaxe “ e positivo “*/
-package boletin07_1;
 
 import javax.swing.JOptionPane;
 
