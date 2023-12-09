@@ -1,9 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-
 package boletin11;
+/*
+Codifica un programa que permita o seguinte xogo  para adiviñar un número .
+O primeiro xogador  teclea ( utilizando a clase JoptionPane ), un número a adiviñar ( entre 1 e 50 ) e o número máximo de intentos que ten o segundo xogador para dar con el . O programa irá sacando por pantaia mensaxes que orienten o segundo xogador sobre se o número tecleado e maior ou menor que o número a adiviñar . Fai o programa repetitivo.
+*/
 
 import javax.swing.JOptionPane;
 
