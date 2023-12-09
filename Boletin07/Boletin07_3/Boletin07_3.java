@@ -1,8 +1,8 @@
+package boletin07_3;
 /*
  Teclear un número e sacar por consola o signo “ + “ se o nº é positivo, 
 o signo “ –“ se é negativo e “ 0 “ se é cero
 */
-package boletin07_3;
 
 import javax.swing.JOptionPane;
 
