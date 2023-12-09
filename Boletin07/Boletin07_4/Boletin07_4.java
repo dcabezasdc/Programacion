@@ -1,8 +1,8 @@
+package boletin07_4;
 /*
 Coñecidos o nome e o peso de dúas persoas, queremos escribir os datos da que
 pesa máis e, a diferenza de peso entre elas 
 */
-package boletin07_4;
 
 import javax.swing.JOptionPane;
 
