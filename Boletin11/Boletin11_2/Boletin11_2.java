@@ -1,3 +1,4 @@
+package boletin11_2;
 /*
 Programa o exercicio  anterior para xogar contra o ordenador . Para eso, o ordenador xenera un número aleatorio, 
 entre 1 e 50 ,.Este programa dará as seguintes pistas sobre lonxe que esté de adivinar o número :
@@ -6,7 +7,6 @@ Entre 10 e 20 , ambos incluidos,  lonxe
 Maior de 10 e menor de 5  preto
 Menor ou igual de 5  moi preto .    
 */
-package boletin11_2;
 
 import javax.swing.JOptionPane;
 
