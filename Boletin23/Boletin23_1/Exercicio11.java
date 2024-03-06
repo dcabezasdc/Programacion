@@ -19,10 +19,8 @@ public class Exercicio11 {
             }
         }
 
-        // Mostrar el resultado
         System.out.println("Número de letras: " + letras);
         System.out.println("Número de dígitos: " + digitos);
         System.out.println("Número de espacios en blanco: " + espacios);
-    
-}
+    }
 }
