@@ -81,6 +81,3 @@ public class Boletin22_1 {
         }
     }
 }
-
-    
-
