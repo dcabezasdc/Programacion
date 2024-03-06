@@ -13,8 +13,8 @@ public class Boletin22_1 {
         Map<String, List<Integer>> tablaGoles = new HashMap<>();
 
         tablaGoles.put("Celta", List.of(3, 4, 2));
-        tablaGoles.put("Barsa", List.of(1, 2, 1));
-        tablaGoles.put("Madrid", List.of(3, 0, 1));
+        tablaGoles.put("Bilbao", List.of(1, 2, 1));
+        tablaGoles.put("Malaga", List.of(3, 0, 1));
 
         System.out.println("Tabla de goles por equipo y jornada:");
         for (Map.Entry<String, List<Integer>> entry : tablaGoles.entrySet()) {
