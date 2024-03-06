@@ -1,5 +1,5 @@
 
-package boletin21v_1;
+package boletin21_1;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -40,6 +40,5 @@ public class ArrayInverso {
             inicio++;
             fin--;
         }
-    }
-    
+    }    
 }
