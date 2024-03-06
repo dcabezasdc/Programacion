@@ -1,7 +1,7 @@
 
-package boletin19_1;
+package boletin19;
 
-public class Boletin19_1 {
+public class Boletin19 {
 
     public static void main(String[] args) {
         
