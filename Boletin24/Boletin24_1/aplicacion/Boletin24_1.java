@@ -1,3 +1,4 @@
+
 package aplicacion;
 
 import libreria.Libro;
@@ -64,6 +65,7 @@ public class Boletin24_1 {
                 default:
                     System.out.println("Opción inválida. Por favor, seleccione una opción válida.");
             }
-        } while (opcion != 6);
+        } 
+    while (opcion != 6);
     }
 }
