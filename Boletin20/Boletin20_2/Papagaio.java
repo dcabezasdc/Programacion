@@ -1,5 +1,5 @@
 
-package boletin21_2;
+package boletin20_2;
 
 public class Papagaio extends Aves{
     
