@@ -1,5 +1,5 @@
 
-package boletin20;
+package boletin19;
 
 public class Persoa implements IPodeCantar {
     
